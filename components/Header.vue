@@ -11,7 +11,11 @@
       >
         <div>
           <nuxt-link to="/" class="flex">
-            <img class="h-12" src="~/static/img/logo.svg" alt="Workflow" />
+            <img
+              class="h-12"
+              src="~/static/img/oci-logo.png"
+              alt="Off-Chain Insights"
+            />
           </nuxt-link>
         </div>
         <div class="-my-2 -mr-2 md:hidden">
@@ -47,38 +51,41 @@
             >
               About
             </nuxt-link>
-            <nuxt-link
+            <!-- <nuxt-link
               to="/products"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
               Products
-            </nuxt-link>
+            </nuxt-link> -->
             <nuxt-link
               to="/blog"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
               Blog
             </nuxt-link>
-            <nuxt-link
+
+            <a
+              class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
+              href="https://discord.gg/AzGkfb5MdC"
+            >
+              Discord
+            </a>
+            <!-- <nuxt-link
               to="/contact"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
               Contact
-            </nuxt-link>
+            </nuxt-link> -->
           </nav>
           <div class="flex items-center space-x-8">
-            <a
-              href="https://github.com/lukeocodes/nuxt-starter-netlify-cms"
-              target="_blank"
-            >
-              <!-- make this a button -->
+            <!-- <a href="https://discord.gg/AzGkfb5MdC" target="_blank">
               <button
                 type="button"
                 class="inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white transition duration-150 ease-in-out bg-indigo-600 border border-transparent rounded-md hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700"
               >
-                PLAY NOW
+                Discord
               </button>
-            </a>
+            </a> -->
           </div>
         </div>
       </div>
