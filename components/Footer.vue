@@ -23,23 +23,23 @@
                   </nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link
+                  <!-- <nuxt-link
                     to="/products"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
                     Products
-                  </nuxt-link>
+                  </nuxt-link> -->
                 </li>
-                <li>
-                  <a
+                <!-- <li> -->
+                <!-- <a
                     href="/admin"
                     target="_blank"
                     nofollow
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
                     Admin
-                  </a>
-                </li>
+                  </a> -->
+                <!-- </li> -->
               </ul>
             </div>
             <div class="mt-12 md:mt-0">
@@ -70,7 +70,7 @@
       >
         <div class="flex space-x-6 md:order-2">
           <a
-            href="https://twitter.com/lukeocodes"
+            href="https://twitter.com/ODACrypto"
             target="_blank"
             class="text-gray-400 hover:text-gray-300"
           >
@@ -81,7 +81,7 @@
               />
             </svg>
           </a>
-          <a
+          <!-- <a
             href="https://github.com/lukeocodes/nuxt-starter-netlify-cms"
             target="_blank"
             class="text-gray-400 hover:text-gray-300"
@@ -94,11 +94,10 @@
                 clip-rule="evenodd"
               />
             </svg>
-          </a>
+          </a> -->
         </div>
         <p class="mt-8 text-base leading-6 text-gray-400 md:mt-0 md:order-1">
-          &copy; 2020 Whoever | Sponsored by
-          <a href="https://netlify.com" target="_blank">Netlify</a>
+          &copy; 2020 Off-Chain Insights. All rights reserved.
         </p>
       </div>
     </div>

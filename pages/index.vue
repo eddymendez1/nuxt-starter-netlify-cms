@@ -31,12 +31,12 @@
         </div>
       </div>
       <p class="text-center">
-        <nuxt-link
+        <!-- <nuxt-link
           to="/products"
           class="inline-flex items-center px-6 py-3 text-base font-medium leading-6 transition duration-150 ease-in-out bg-white border border-gray-300 rounded-md text-kaldi hover:text-orange-500 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue active:text-gray-800 active:bg-gray-50"
         >
           See all products
-        </nuxt-link>
+        </nuxt-link> -->
       </p>
       <h2>Latest stories</h2>
       <div class="lg:grid lg:grid-cols-2 lg:gap-8">
