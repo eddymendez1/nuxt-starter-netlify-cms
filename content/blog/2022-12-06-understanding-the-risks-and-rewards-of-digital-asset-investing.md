@@ -42,7 +42,7 @@ By the end of this series, you will have a better understanding of the risks and
 
 
 
-## What is crypto?
+## What is crypto
 
 ![blockchain, fiat currency, secure transactions](https://lh3.googleusercontent.com/1MCSXStEy39zpi510GyEukJQSOa8SpnMmx_HghqMRhjVAMLZCGeXB3x9UDdjLHStNn1RMxCe1hMeaRwZKZBykFJD22wsqwjNv9h4J-d0ploPjE6oZ0LhTCZbNeZNRM-ZJy65mJDIsDhhapvO7Zpz4hBDT8C7IzwZNmlvXujhFBa49z1KUa99u9ykXy2jKA)
 
