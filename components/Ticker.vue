@@ -13,7 +13,7 @@
 
         <a
           href="https://go.offchaininsights.com/phemex"
-          target=""
+          target="_blank"
           rel=""
           class="underline text-blue-100"
           >Get a $180 Welcome Bonus</a
