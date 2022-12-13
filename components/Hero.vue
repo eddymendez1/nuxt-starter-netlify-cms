@@ -44,6 +44,6 @@ export default {
   height: 25rem;
 }
 .bg-oci {
-  background-color: #3a4e48;
+  background-color: #18181b;
 }
 </style>

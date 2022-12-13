@@ -1,5 +1,5 @@
 <template>
-  <footer class="mt-12 bg-gray-800">
+  <footer class="mt-12 bg-gray-900">
     <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 lg:py-16 lg:px-8">
       <div class="xl:grid xl:grid-cols-3 xl:gap-8">
         <div class="grid grid-cols-2 gap-8 xl:col-span-2">
@@ -97,7 +97,7 @@
           </a> -->
         </div>
         <p class="mt-8 text-base leading-6 text-gray-400 md:mt-0 md:order-1">
-          &copy; 2020 Off-Chain Insights. All rights reserved.
+          &copy; 2022 Off-Chain Insights. All rights reserved.
         </p>
       </div>
     </div>

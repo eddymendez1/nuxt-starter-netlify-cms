@@ -2,7 +2,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        kaldi: '#3a4e48',
+        kaldi: '#3C1642',
       },
     },
   },

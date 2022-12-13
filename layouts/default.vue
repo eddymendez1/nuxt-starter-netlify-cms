@@ -1,7 +1,11 @@
 <template>
   <div>
+    <Ticker />
+
     <Header />
+
     <Nuxt />
+
     <Footer />
   </div>
 </template>
