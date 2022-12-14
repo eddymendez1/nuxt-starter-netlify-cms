@@ -17,7 +17,7 @@ mainpitch:
     events in the blockchain and cryptocurrency industries. With Off-Chain
     Insights, you can stay informed and engaged with the latest developments in
     these exciting and dynamic fields.
-description: Of-Chain Insights is a blog dedicated to providing expert analysis
+description: Off-Chain Insights is a blog dedicated to providing expert analysis
   and insights on the latest trends and developments in the blockchain and
   cryptocurrency industries. Our team of experienced writers and industry
   enthusiasts offer in-depth coverage of the most important stories and events
