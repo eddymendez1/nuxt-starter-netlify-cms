@@ -7,10 +7,6 @@
       <div class="ticker__item">Litecoin (LTC): ${{ ltcPrice }}</div>
       <div class="ticker__item">Paraswap (PSP): ${{ pspPrice }}</div>
       <div class="ticker__item">
-        <!-- Make this look like an actual link -->
-        <!-- underline -->
-        <!-- color -->
-
         <a
           href="https://go.offchaininsights.com/phemex"
           target="_blank"

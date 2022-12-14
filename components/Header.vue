@@ -71,6 +71,21 @@
               Blog
             </nuxt-link>
 
+            <!-- add a regular link -->
+            <a
+              href="https://go.offchaininsights.com/paraswap"
+              class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
+            >
+              Swap Crypto
+            </a>
+
+            <a
+              href="https://go.offchaininsights.com/phemex"
+              class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
+            >
+              Buy Crypto
+            </a>
+
             <a
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
               href="https://discord.gg/AzGkfb5MdC"
@@ -157,6 +172,20 @@
                 >
                   Blog
                 </nuxt-link>
+
+                <a
+                  href="https://go.offchaininsights.com/paraswap"
+                  class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
+                >
+                  Swap Crypto
+                </a>
+
+                <a
+                  href="https://go.offchaininsights.com/phemex"
+                  class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
+                >
+                  Buy Crypto
+                </a>
               </div>
             </div>
           </div>
