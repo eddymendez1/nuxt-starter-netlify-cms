@@ -20,18 +20,21 @@ export default {
 </script>
 
 <style>
-.img {
+img {
   display: block;
   margin: 0 auto;
   /* center */
   max-width: 100%; /* prevent images from becoming distorted */
   border: 1px solid black; /* add a border around images */
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* add a drop shadow */
-  background-image: linear-gradient(
+  box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5); /* add a drop shadow */
+
+  border-radius: 1px; /* round the corners */
+  /* background-image: linear-gradient(
+
     to bottom,
     white,
     lightgray
-  ); /* add a background gradient */
-  filter: grayscale(100%); /* apply a grayscale effect */
+  ); 
+  filter: grayscale(100%);  */
 }
 </style>
