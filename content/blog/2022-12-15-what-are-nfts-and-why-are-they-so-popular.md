@@ -7,8 +7,6 @@ description: If you're new to the world of blockchain and digital assets, the
   of investors, artists, and collectors alike. So what exactly are NFTs and why
   are they suddenly so popular?
 ---
-If you're new to the world of blockchain and digital assets, the term "NFT" might be unfamiliar to you. But in recent months, NFTs (short for non-fungible tokens) have been making headlines and attracting the attention of investors, artists, and collectors alike. So what exactly are NFTs and why are they suddenly so popular?
-
 In this article, we'll explain what NFTs are, how they work, and why they're causing such a stir in the world of art and digital collectibles. We'll also take a look at some of the key players in the NFT market, and provide some tips for beginners looking to get started with NFTs.
 
 ![original art, digital artwork, unique nft](https://lh3.googleusercontent.com/N0dAcoPr4bUj4sKCsprJfHAMm2JAhMzIk2esXOjJie7h3HUK4PJGYdNYOa3h7DjXuLtR6-eB0Ep_3o9UI305dmFlvCisg10hHNM6gnM8jdCDOhXQuXaBWIFDEW_wRH-GxY49tBuElrP23xDqYm_c9ZzfFEznji9cFxuWkbi_J1f_WDB34pleHngt5JIXOQ)
