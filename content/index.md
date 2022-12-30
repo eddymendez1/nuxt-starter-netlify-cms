@@ -1,6 +1,6 @@
 ---
 title: Stay Ahead of the Curve with Offchain Insights
-image: /img/off-chain-twitter-image.png
+image: /img/shubham-dhage-r2htyws5-qa-unsplash.jpg
 heading: Off-Chain Insights
 subheading: Your Go-To Source for Analysis and Insights on the Blockchain and
   Cryptocurrency Industries
