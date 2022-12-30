@@ -2,8 +2,8 @@
 title: Stay Ahead of the Curve with Offchain Insights
 image: /img/off-chain-twitter-image.png
 heading: Off-Chain Insights
-subheading: Your Go-To Source for Expert Analysis and Insights on the Blockchain
-  and Cryptocurrency Industries
+subheading: Your Go-To Source for Analysis and Insights on the Blockchain and
+  Cryptocurrency Industries
 mainpitch:
   title: Why Off-Chain Insights
   description: Are you looking for a source of news and insights on the blockchain
